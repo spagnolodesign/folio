@@ -1,4 +1,5 @@
-# folio
+# Folio ThreeJS
+ThreeJS render with Vue framework.
 
 ## Project setup
 ```
