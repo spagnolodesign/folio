@@ -4,10 +4,9 @@ export default scene => {
 
     const lightIn = new THREE.PointLight("#ffe7a0", 10);
     const lightOut = new THREE.PointLight("#696969", 10);
-    // lightOut.position.set(40,20,40);
 
-    // scene.add(lightIn);
-    // scene.add(lightOut);
+    scene.add(lightIn);
+    scene.add(lightOut);
 
     const rad = 80;
 
