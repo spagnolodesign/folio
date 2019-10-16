@@ -1,6 +1,8 @@
-# Folio ThreeJS
-ThreeJS render with Vue framework.
+# Folio
+The project is related to my personal portfolio, an integration of ThreeJS canvas render with VueJS framework. 
 
+At the moment the website is visible here:
+[Live link](https://tender-turing-67922b.netlify.com/)
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)
 
